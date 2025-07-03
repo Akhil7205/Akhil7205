@@ -1,9 +1,18 @@
 # github-profile
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl3eHlnZnJ3dWNydGZ2cHExZmxwbW14YWt0aDQxN3ZmMXEwNzI0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm akhil shinde</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
+
+- 🔭 I’m currently working on **Cool project**
+
+- 🌱 I’m currently learning **Agentic AI**
+
+- 👨‍💻 All of my projects are available at [akhilshinde.in](akhilshinde.in)
+
+- 💬 Ask me about **Deeplearning,AI/ML & Tech.....**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil7205&label=Profile%20views&color=0e75b6&style=flat" alt="akhil7205" /> </p>
 
@@ -18,11 +27,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
   <img width="12" />
@@ -64,14 +73,13 @@
           
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="30"/>
           
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height='30' />
           
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="30"/>
           
   
 </div>
@@ -79,15 +87,20 @@
 ###
 
 <div align="left">
-<a href='akhilshinde13401@gmail.com'>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<h3 align="left">Connect with me:</h3>
+<a href="mailto:akhilshinde13401@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
-  <a href='www.linkedin.com/in/akhilshinde'>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/akhilshinde" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+
   </div>
 
 ###
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGk3czc0aWo3MDkwb2MwM3I0NXhhOWpqaXY1azN4OGYwa3YxYzVxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5aJ7MZadzpIgYSaBzm/giphy.gif"  />
 
 <br clear="both">
 
