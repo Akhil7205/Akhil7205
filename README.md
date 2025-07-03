@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 👨‍💻 All of my projects are available at [akhilshinde.in](akhilshinde.in)
+- 👨‍💻 Check my refine profile **<a href="https://www.akhilshinde.in" target="_blank">akhilshinde.in</a>**
+
 
 - 💬 Ask me about **Deeplearning,AI/ML & Tech.....**
 
