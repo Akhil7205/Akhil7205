@@ -14,20 +14,7 @@
 
 
 - 💬 Ask me about **Deeplearning,AI/ML & Tech.....**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil7205&label=Profile%20views&color=0e75b6&style=flat" alt="akhil7205" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil7205" alt="akhil7205" /></a> </p>
-
-
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil7205&" alt="akhil7205" /></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhil7205&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil7205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
-
 
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -84,6 +71,22 @@
           
   
 </div>
+</br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil7205&label=Profile%20views&color=0e75b6&style=flat" alt="akhil7205" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil7205" alt="akhil7205" /></a> </p>
+
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil7205&" alt="akhil7205" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhil7205&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil7205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 
 ###
 
